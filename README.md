@@ -5,6 +5,7 @@ _____
   * [Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
   * [Java Mini Project](https://projectsgeek.com/java-mini-projects-with-source-code)
   * [DownloadApps4Java](https://github.com/HisenLee/DownloadApps4Java)
+  * [DownloadPicturesFromPRC](https://github.com/HisenLee/DownloadPicturesFromPRC)
 
 ### PYTHON
   * [Python Tutorial](https://docs.python.org/3/tutorial/)
