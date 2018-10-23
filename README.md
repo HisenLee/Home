@@ -22,6 +22,7 @@ _____
   
 ### C sharp  
   * [GetAppsFromHuaweiAndMiStore](https://github.com/HisenLee/GetAppsFromHuaweiAndMiStore)
+  * [GetAppsFromPRCStores](https://github.com/HisenLee/GetAppsFromPRCStores/)
   
 ### GIT
   * [Git Tutorial](https://github.com/HisenLee/GitNote)
