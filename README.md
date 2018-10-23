@@ -7,12 +7,20 @@ _____
 
 ### PYTHON
   * [Python Tutorial](https://docs.python.org/3/tutorial/)
+  * [Python Learning](https://github.com/HisenLee/PySpider001)
+  * [Scrapy Learning](https://github.com/HisenLee/ScrapyTutorial)
+  * [Spider Jingdong Images](https://github.com/HisenLee/PySpider002GetJingdongPictures)
+  * [Spider url from CSDN](https://github.com/HisenLee/PySpider003GetlinksFromCSDN)
+  * [Spider QiuShiBaiKe](https://github.com/HisenLee/PySpider004GetQiushibaike)
+  * [Spider News From Sina](https://github.com/HisenLee/GetSinaNews)
+  * [Spider blogs from blog.hexun.com](https://github.com/HisenLee/HeXunBlogs)
 
 ### ANDROID
   * [Android Open Source Project And Views](https://github.com/Trinea/android-open-project)
   * [Android Open Source Project From Daimajia](https://blog.csdn.net/languobeibei/article/details/77930542)
   
 ### C sharp  
+  
   
 ### GIT
   * [Git Tutorial](https://github.com/HisenLee/GitNote)
