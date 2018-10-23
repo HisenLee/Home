@@ -31,6 +31,9 @@ _____
 
 ### Regular expression
   * [RegExr](https://regexr.com/)
+  
+### Linux & Vim
+ * [Linux & Vim](https://github.com/HisenLee/Linux-Vim)
 
 ### Other Tools
   * [Json Web API](http://www.bejson.com/knownjson/webInterface/)
