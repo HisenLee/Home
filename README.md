@@ -22,6 +22,7 @@ _____
   * [DownloadApps4Java](https://github.com/HisenLee/DownloadApps4Java)
   * [DownloadPicturesFromPRC](https://github.com/HisenLee/DownloadPicturesFromPRC)
   * [ApkAnalyseTools](https://github.com/HisenLee/ApkAnalyseTools)
+  * [AppAutoTest](https://github.com/HisenLee/AppAutoTest)
 
   
 ### C sharp  
