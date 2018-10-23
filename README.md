@@ -1,0 +1,31 @@
+# Better Code, Better Life
+_____
+
+### JAVA
+  * [Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
+  * [Java Mini Project](https://projectsgeek.com/java-mini-projects-with-source-code)
+
+### PYTHON
+  * [Python Tutorial](https://docs.python.org/3/tutorial/)
+
+### ANDROID
+  * [Android Open Source Project And Views](https://github.com/Trinea/android-open-project)
+  * [Android Open Source Project From Daimajia](https://blog.csdn.net/languobeibei/article/details/77930542)
+  
+### C sharp  
+  
+### GIT
+  * [Git Tutorial](https://github.com/HisenLee/GitNote)
+
+### MYSQL
+  * [Mysql Tutorial](https://github.com/HisenLee/MySQLTutorial)
+
+### Regular expression
+  * [RegExr](https://regexr.com/)
+
+### Other Tools
+  * [Json Web API](http://www.bejson.com/knownjson/webInterface/)
+  * [IconFont From Alibaba](http://www.iconfont.cn/search/index)
+  * [HuaBan](http://huaban.com/discovery/)
+  * [Gif Maker & VideoToGif](http://www.uupoop.com/GIF_fenjie/)
+  
