@@ -21,7 +21,7 @@ _____
   * [ADB Command](https://github.com/HisenLee/ADB-Command/)
   
 ### C sharp  
-  
+  * [GetAppsFromHuaweiAndMiStore](https://github.com/HisenLee/GetAppsFromHuaweiAndMiStore)
   
 ### GIT
   * [Git Tutorial](https://github.com/HisenLee/GitNote)
