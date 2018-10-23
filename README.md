@@ -1,12 +1,6 @@
 # Better Code, Better Life
 _____
 
-### JAVA
-  * [Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
-  * [Java Mini Project](https://projectsgeek.com/java-mini-projects-with-source-code)
-  * [DownloadApps4Java](https://github.com/HisenLee/DownloadApps4Java)
-  * [DownloadPicturesFromPRC](https://github.com/HisenLee/DownloadPicturesFromPRC)
-
 ### PYTHON
   * [Python Tutorial](https://docs.python.org/3/tutorial/)
   * [Python Learning](https://github.com/HisenLee/PySpider001)
@@ -21,6 +15,14 @@ _____
   * [Android Open Source Project And Views](https://github.com/Trinea/android-open-project)
   * [Android Open Source Project From Daimajia](https://blog.csdn.net/languobeibei/article/details/77930542)
   * [ADB Command](https://github.com/HisenLee/ADB-Command/)
+  
+### JAVA
+  * [Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
+  * [Java Mini Project](https://projectsgeek.com/java-mini-projects-with-source-code)
+  * [DownloadApps4Java](https://github.com/HisenLee/DownloadApps4Java)
+  * [DownloadPicturesFromPRC](https://github.com/HisenLee/DownloadPicturesFromPRC)
+  * [ApkAnalyseTools](https://github.com/HisenLee/ApkAnalyseTools)
+
   
 ### C sharp  
   * [GetAppsFromHuaweiAndMiStore](https://github.com/HisenLee/GetAppsFromHuaweiAndMiStore)
