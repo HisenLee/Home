@@ -15,6 +15,7 @@ _____
   * [Android Open Source Project And Views](https://github.com/Trinea/android-open-project)
   * [Android Open Source Project From Daimajia](https://blog.csdn.net/languobeibei/article/details/77930542)
   * [ADB Command](https://github.com/HisenLee/ADB-Command/)
+  * [AnimationBasicSample](https://github.com/HisenLee/AnimBasicSample/)
   
 ### JAVA
   * [Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
