@@ -45,5 +45,6 @@ _____
   * [Json Web API](http://www.bejson.com/knownjson/webInterface/)
   * [IconFont From Alibaba](http://www.iconfont.cn/search/index)
   * [HuaBan](http://huaban.com/discovery/)
-  * [Gif Maker & VideoToGif](http://www.uupoop.com/GIF_fenjie/)
+  * [Gif decompose](http://www.uupoop.com/GIF_fenjie/)
+  * [Video2Gif](https://ezgif.com/video-to-gif)
   
