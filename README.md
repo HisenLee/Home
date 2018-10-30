@@ -16,6 +16,7 @@ _____
   * [Android Open Source Project From Daimajia](https://blog.csdn.net/languobeibei/article/details/77930542)
   * [ADB Command](https://github.com/HisenLee/ADB-Command/)
   * [AnimationBasicSample](https://github.com/HisenLee/AnimBasicSample/)
+  * [Bezier-curves](https://github.com/HisenLee/Bezier-curves)
   
 ### JAVA
   * [Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
