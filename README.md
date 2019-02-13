@@ -28,9 +28,11 @@ _____
   
 ### J2EE
 
-### Html+JS+JQuery
+### Bootstrap
 
-### Html+vue.js
+### React
+
+### Framer(UI Design)
 
 ### Wechat mini program
   
