@@ -27,6 +27,12 @@ _____
   * [AppAutoTest](https://github.com/HisenLee/AppAutoTest)
   
 ### JavaFX 
+  * [JavaFXGuide](https://github.com/HisenLee/JavaFXGuide)
+  * [JavaFXLoginForm](https://github.com/HisenLee/JavaFXLoginForm)
+  * [JavaFXLoginFormWithFXML](https://github.com/HisenLee/JavaFXLoginFormWithFXML)
+  * [JavaFXWithCanvas](https://github.com/HisenLee/JavaFXWithCanvas)
+  * [JavaFXForCharts](https://github.com/HisenLee/JavaFXForCharts)
+  * [JavaFXColorfulCircles](https://github.com/HisenLee/JavaFXColorfulCircles)
 
 ### JFoenix
   
