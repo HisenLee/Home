@@ -33,6 +33,7 @@ _____
 ### J2EE
 
 ### Maven
+  * [J2SETestWithMavenDemo](https://github.com/HisenLee/J2SETestWithMaven)
   * [J2EETestWithMavenDemo](https://github.com/HisenLee/J2EETestWithMaven)
 
 ### Bootstrap
