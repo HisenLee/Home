@@ -33,6 +33,7 @@ _____
   * [JavaFXWithCanvas](https://github.com/HisenLee/JavaFXWithCanvas)
   * [JavaFXForCharts](https://github.com/HisenLee/JavaFXForCharts)
   * [JavaFXColorfulCircles](https://github.com/HisenLee/JavaFXColorfulCircles)
+  * [JavaFX Demo With Maven And DataFX](https://github.com/HisenLee/JavaFXDemoWithMavenAndDataFX)
 
 ### JFoenix
   
