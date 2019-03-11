@@ -36,6 +36,7 @@ _____
   * [JavaFX Demo With Maven And DataFX](https://github.com/HisenLee/JavaFXDemoWithMavenAndDataFX)
 
 ### JFoenix
+  * [JFoenix-Guide](https://github.com/HisenLee/JFoenix-Guide)
   
 ### J2EE
 
