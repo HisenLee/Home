@@ -37,6 +37,7 @@ _____
 
 ### JFoenix
   * [JFoenix-Guide](https://github.com/HisenLee/JFoenix-Guide)
+  * [JFoenixDemo](https://github.com/HisenLee/JFoenixDemo)
   
 ### J2EE
 
